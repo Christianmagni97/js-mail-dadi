@@ -18,6 +18,6 @@ Presumo si possa ottenere scrivendo 2 volte la formula "Math.random('6')".
 Succesivamente dovremo far vedere all'utente chi ha generato il numero più alto.
 
 Mail
- Chiediamo all'utente con un "prompt" la propria email.
+Chiediamo all'utente con un "prompt" la propria email.
 Succesivamente con un "Array" creiamo una lista di email di cui hanno il permesso di accere.
-Nel caso le'mail scelta dall'utente avesse il permesso, succesivamente con un prompt diamo esito positivo o negativo. 
+Nel caso le'mail scelta dall'utente avesse il permesso, succesivamente con un prompt diamo esito positivo 
